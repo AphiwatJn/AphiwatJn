@@ -3,6 +3,8 @@
 
   <p>Change your thoughts and you change your world.</p>
 
+<hr>
+
 <H3>Skill && Tools</H3>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
