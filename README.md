@@ -27,11 +27,11 @@
 
   <H3>Project </H3>
   
-  <a href="https://o2o-project.vercel.app/"> O2O PROJECT </a> (Group Project) &nbsp;
+  <a href="https://o2o-project.vercel.app/"> O2O PROJECT </a> (Group Project) <br>
 
-  <a href="https://www.figma.com/design/7pjpUvA80UlvUp0nj9eonQ/Design">Figma</a>&nbsp;
-  <a href="https://github.com/chaithawat21/o2o-frontend">Frontend</a> | HTML CSS TAILWIND REACT ZUSTAND &nbsp;
-  <a href="https://github.com/chaithawat21/o2o-backend">Backend</a> NODEJS EXPRESSJS SOCKET.IO MYSQL&nbsp;
+  <a href="https://www.figma.com/design/7pjpUvA80UlvUp0nj9eonQ/Design">Figma</a> <br>
+  <a href="https://github.com/chaithawat21/o2o-frontend">Frontend</a> | HTML CSS TAILWIND REACT ZUSTAND <br>
+  <a href="https://github.com/chaithawat21/o2o-backend">Backend</a> NODEJS EXPRESSJS SOCKET.IO MYSQL <br>
 </div>
 
 
