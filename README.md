@@ -22,6 +22,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+
+  <hr>
+
+  <H3>Project </H3>
+
+  O2O PROJECT(Group Project)
+
+  Figma
+Frontend | HTML CSS TAILWIND REACT ZUSTAND
+Backend | NODEJS EXPRESSJS SOCKET.IO MYSQL
 </div>
 
 
