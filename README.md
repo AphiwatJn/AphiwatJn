@@ -35,9 +35,9 @@
 </div>
 
  <H3>Design by frontendmentor </H3>
- <a href="https://aphiwatjn.github.io/age-calculator/">age-calculator | HTML CSS JS REACT</a><br>
-<a href="https://aphiwatjn.github.io/recipe_page/">recipe_page | HTML CSS JS REACT</a><br>
- <a href="https://aphiwatjn.github.io/result-summary/">result-summary | HTML CSS JS REACT</a><br> 
+ <a href="https://aphiwatjn.github.io/age-calculator/">age-calculator </a>| HTML CSS JS REACT<br>
+<a href="https://aphiwatjn.github.io/recipe_page/">recipe_page </a>| HTML CSS JS REACT<br>
+ <a href="https://aphiwatjn.github.io/result-summary/">result-summary </a>| HTML CSS JS REACT<br>
 
 
 
